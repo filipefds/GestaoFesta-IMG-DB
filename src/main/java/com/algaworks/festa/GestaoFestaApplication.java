@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GestaoFestaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GestaoFestaApplication.class, args);
+		SpringApplication.run(GestaoFestaApplication.class, args);	
 	}
 	
 }
